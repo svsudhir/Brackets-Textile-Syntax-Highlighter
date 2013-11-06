@@ -15,9 +15,10 @@ Provides textile syntax highlight via a CodeMirror mode for Brackets.
 
 ##Instructions
 
-It should just work on .textile files. Submit issues on the github if you'd like additions or more functionality. Styles were arbitrarily chosen by me.
+This extension is useful only if you use RedCloth/Jekyll to convert textile files to html.  See redcloth.org/textile for more info.
+
+Submit issues on the github if you'd like additions or more functionality. Styles were arbitrarily chosen by me. 
 
 ##Special Thanks
 
 This was created by using the .jade syntax highlighter by Drew Bratcher as reference.
-
