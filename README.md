@@ -15,7 +15,7 @@ Provides textile syntax highlight via a CodeMirror mode for Brackets.
 
 ##Instructions
 
-This extension is useful only if you use RedCloth/Jekyll to convert textile files to html.  See redcloth.org/textile for more info.
+This extension is useful only if you use RedCloth/Jekyll to convert textile files to html.  See  [RedCloth.org/Textile](http://redcloth.org/textile "RedCloth Textile") for more info.
 
 Submit issues on the github if you'd like additions or more functionality. Styles were arbitrarily chosen by me. 
 
