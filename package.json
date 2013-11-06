@@ -2,7 +2,7 @@
     "name": "brackets-textile",
     "title": "Textile Syntax Highlighting",
     "description": "Provides textile syntax highlight via a CodeMirror mode for Brackets.",
-    "homepage": "",
+    "homepage": "https://github.com/svsudhir/Brackets-Textile-Syntax-Highlighter",
     "version": "1.0.0",
     "author": "Sudharshan S Veeravalli",
     "license": "MIT",
