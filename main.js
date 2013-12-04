@@ -15,8 +15,8 @@ define(function (require, exports, module) {
     //var open_paren_regex = /^()/;
     //var close_paren_regex = /^()/;
     var keyword_regex1 = /^({|\[|!|\"!)/;
-    var keyword_regex2 = /^(}|\(|\)|\]|!|!\")/;
-    //var keyword_regex3 = /^(in)/;
+    var keyword_regex2 = /^(}|\(|\)|\]|!|!\"|layout:|title:|keywords:|description:)/;
+    //var keyword_regex3 = /^()/;
     var html_regex1 = /^(div|<div|<\/div>|pre|table|form|input|<blockquote|<\/blockquote>|<notextile>)/;
     var html_regex2 = /^(h1|h2|h3|h4|h5|h6|p|bq|<\/notextile>)/;
     var comment_regex = /^(\<!--|-->)/;
